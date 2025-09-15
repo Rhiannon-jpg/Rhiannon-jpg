@@ -20,7 +20,7 @@
 I currently manage a MakerSpace called HelloMakerStudio, but hope to break into tech! I like visualizing data, building models, and learning new skills. When I'm not upskilling, you can find me in the gym🏋️‍♀️ or on the side of a mountain🏔️ (hiking not falling--that ony happened once).
 
 ### 🛠️ I'm Working On
-- 😅 Committing to GitHub! -- a new concept for me coming from a non-technical background. I plan to have a fully green grid by the new year!
+- 😅 Committing to GitHub! -- a new concept for me coming from a non-technical background. I plan to have a fully dark green grid by the next year!
 - 🤖 A robotic cat -- Combines previous VSLAM student project + open-source cat robot + Two ML models (1.For answering users' Qs about Makerspace, 2. For ID-ing tools and locating them in the space)
 
 
